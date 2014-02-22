@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Glass Master Control</string>
+    <string name="auto_bright_on">Automatic Brightness On</string>
+    <string name="v_level">Volume: </string>
+    <string name="b_level">Brightness: </string>
+    <string name="Mute">Muted </string>
+    
+    <!-- Glass Status -->   
+    <string name="glass_status_title">Glass Status</string>
+    <string name="uptime_status_title">Uptime Status</string> 
+    <string name="status_wifi">Wifi</string>
+    <string name="status_bluetooth">Bluetooth</string> 
+    <string name="status_autosync">AutoSync</string>
+    <string name="status_volume">Volume</string>
+    <string name="status_brightness">Brightness</string> 
+    <string name="status_battery">Battery</string> 
+    
+    <!-- Glass Radios -->
+    <string name="wifiturnedoff">Wifi Turning Off</string>
+    <string name="wifiturnedon">Wifi Turning On</string>  
+    <string name="btturnedoff">Bluetooth Turning Off</string>
+    <string name="btturnedon">Bluetooth Turning On</string>    
+	<string name="allradiosoff">Turning Off Radios</string>
+    <string name="allradioson">Turning On Radios</string>
+    <string name="autosync_off">AutoSync Turning Off</string>
+    <string name="autosync_on">AutoSync Turning On</string>
+    <string name="turned_off">Off</string>
+    <string name="turned_on">On</string>
+        
+    <!-- Names for Manifest -->
+    <string name="change_up">Plus</string>
+    <string name="change_down">Minus</string>
+    <string name="change_max">Max</string>
+    <string name="change_min">Minimum</string>
+    <string name="change_mute">Mute</string>
+    <string name="change_manual">Manual</string>
+    <string name="change_auto">Auto</string>
+    <string name="change_wifi">Wifi Switch</string>
+    <string name="change_bluetooth">Bluetooth Switch</string>
+    <string name="change_all">All Switches</string>
+    <string name="change_sync">AutoSync Switch</string> 
+    <string name="change_overdrive">OverDrive</string> 
+         
+    <!-- Voice Triggers -->
+    <string name="voice_audio_trigger">Glass Volume</string>
+    <string name="voice_brightness_trigger">Glass Brightness</string>    
+    <string name="voice_radio_trigger">Glass Radios</string>
+    <string name="voice_status_trigger">Glass Status</string>
+</resources>
