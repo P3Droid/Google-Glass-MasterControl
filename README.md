@@ -1,8 +1,7 @@
-Google-Glass-MasterControl
-==========================
+Google-Glass-MasterControl-Application
+======================================
 
 Application to control settings on Google Glass.
-
 
 Audio Phrase: Glass Volume
 Use voice commands to control the audio (Plus, Minus, Mute, Max, Manual, Overdrive)
