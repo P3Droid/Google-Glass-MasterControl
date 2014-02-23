@@ -80,12 +80,12 @@ Shows the following information:
 * Uptime (realtime counter)
 
 * Manual: (Swipe One Finger Right) to view second screen.
-* Device name
-* Android release version
-* Device serial 
-* Firmware build date
-* Build ID
-* Wifi address (Only if connected to wifi)
+	* Device name
+	* Android release version
+	* Device serial 
+	* Firmware build date
+	* Build ID
+	* Wifi address (Only if connected to wifi)
 
 
 IMPORTANT REMINDER
