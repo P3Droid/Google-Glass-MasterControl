@@ -10,7 +10,7 @@ DIRECTIONS
 
 #### Volume Control
 
-Launch Phrase: ####Glass Volume
+Launch Phrase: <b>Glass Volume</b>
 Voice Commands:
 * Plus: +10% to volume.
 * Minus: -10% to volume.
@@ -27,7 +27,7 @@ Voice Commands:
 
 #### Screen Brightness Control
 
-Launch Phrase: ####Glass Brightness
+Launch Phrase: <b>Glass Brightness</b>
 Voice Commands:
 * Plus: +10% to brightness.
 * Minus: -10% to brightness.
@@ -52,7 +52,7 @@ Voice Commands:
 
 #### Screen Sleep Control
 
-Launch Phrase: ####Glass Sleep
+Launch Phrase: <b>Glass Sleep</b>
 Voice Commands:
 * Plus: add 5 seconds.
 * Minus: subtract 5 seconds.
@@ -64,7 +64,7 @@ Voice Commands:
 
 #### Glass Status Screens
 
-Launch Phrase: ####Glass Status
+Launch Phrase: <b>Glass Status</b>
 Shows the following information:
 * Battery Percent
 * Volume Level
