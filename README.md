@@ -74,10 +74,10 @@ Shows the following information:
 * Battery Percent
 * Volume Level
 * Brightness Level
-* Wifi status-name of SSID displays if connected.
+* Wifi status (name of SSID displays if connected)
 * Bluetooth Status
 * Auto Sync Status
-* Uptime-realtime counter
+* Uptime (realtime counter)
 
 * Manual: (Swipe One Finger Right) to view second screen.
 	* Device name
