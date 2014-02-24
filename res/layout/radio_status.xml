@@ -21,59 +21,81 @@
 		    android:layout_alignLeft="@+id/textBluetooth"
 		    android:layout_below="@+id/textTitle"
    		    android:textSize="20sp"
-		    android:layout_marginTop="4dp" />
+		    android:layout_marginTop="4dp" 
+		    	    android:text="batt" />
+
+		<TextView
+		    android:id="@+id/textVolumeLevel"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_alignBaseline="@+id/textBattery"
+		    android:layout_alignBottom="@+id/textBattery"
+		    android:layout_alignParentRight="true"
+		    android:layout_marginRight="36dp"
+		    android:text="volume"
+		    android:textSize="20sp" />
+
+		<TextView
+		    android:id="@+id/textBrightness"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_alignLeft="@+id/textBattery"
+		    android:layout_below="@+id/textBattery"
+		    android:text="bright"
+		    android:textSize="20sp" />
 
 		<TextView
 		    android:id="@+id/textWifi"
 		    android:layout_width="wrap_content"
 		    android:layout_height="wrap_content"
-		    android:layout_alignLeft="@+id/textBT"
+		    android:layout_alignLeft="@+id/textBrightness"
 		    android:layout_below="@+id/textBrightness"
-   		    android:textSize="20sp"
-		    android:layout_marginTop="1dp" />	
-		    
-		<TextView
-		    android:id="@+id/textVolumeLevel"
-		    android:layout_width="wrap_content"
-		    android:layout_height="wrap_content"
-		    android:layout_alignLeft="@+id/textBT"
-		    android:layout_below="@+id/textBattery"
-   		    android:textSize="20sp"
-		    android:layout_marginTop="1dp" />
-		
-		<TextView
-		    android:id="@+id/textBrightness"
-		    android:layout_width="wrap_content"
-		    android:layout_height="wrap_content"
-		    android:layout_alignLeft="@+id/textBT"
-		    android:layout_below="@+id/textVolumeLevel"
-   		    android:textSize="20sp"
-		    android:layout_marginTop="1dp" />	
-		    
-		<TextView
-		    android:id="@+id/textSync"
-		    android:layout_width="wrap_content"
-		    android:layout_height="wrap_content"
-		    android:layout_alignLeft="@+id/textBT"
-		    android:layout_below="@+id/textBT"
-   		    android:textSize="20sp"
-		    android:layout_marginTop="1dp" />
+		    android:text="wifi"
+		    android:textSize="20sp" />
 
 		<TextView
 		    android:id="@+id/textNetWorkName"
 		    android:layout_width="wrap_content"
 		    android:layout_height="wrap_content"
-		    android:layout_alignTop="@+id/textWifi"
+		    android:layout_above="@+id/textBT"
 		    android:layout_toRightOf="@+id/textWifi"
+		    android:text="netrowk"
 		    android:textSize="20sp" />
 
 		<TextView
 		    android:id="@+id/textBT"
 		    android:layout_width="wrap_content"
 		    android:layout_height="wrap_content"
-		    android:layout_alignLeft="@+id/textBattery"
+		    android:layout_alignLeft="@+id/textWifi"
 		    android:layout_below="@+id/textWifi"
-		    android:layout_marginTop="1dp"
+		    android:text="bt"
+		    android:textSize="20sp" />
+
+		<TextView
+		    android:id="@+id/textSync"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_above="@+id/textWifi"
+		    android:layout_alignLeft="@+id/textVolumeLevel"
+		    android:text="sync"
+		    android:textSize="20sp" />
+		
+		<TextView
+		    android:id="@+id/textStorage"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_below="@+id/textBT"
+		    android:layout_alignLeft="@+id/textBrightness"
+		    android:text="sync"
+		    android:textSize="20sp" />
+		
+		<TextView
+		    android:id="@+id/textUptime"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_below="@+id/textStorage"
+		    android:layout_alignLeft="@+id/textBrightness"
+		    android:text="sync"
 		    android:textSize="20sp" />
 
 </RelativeLayout>

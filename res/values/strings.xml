@@ -6,6 +6,7 @@
     <string name="v_level">Volume: </string>
     <string name="b_level">Brightness: </string>
     <string name="Mute">Muted </string>
+    <string name="glass_device_title">Glass Information</string>
     
     <!-- Glass Status -->   
     <string name="glass_status_title">Glass Status</string>
@@ -16,6 +17,7 @@
     <string name="status_volume">Volume</string>
     <string name="status_brightness">Brightness</string> 
     <string name="status_battery">Battery</string> 
+    <string name="status_storage_title">Device Storage</string>
     
     <!-- Glass Radios -->
     <string name="wifiturnedoff">Wifi Turning Off</string>
@@ -28,8 +30,13 @@
     <string name="autosync_on">AutoSync Turning On</string>
     <string name="turned_off">Off</string>
     <string name="turned_on">On</string>
+
+    <!-- Glass Screen Sleep -->
+    <string name="screen_timeout">Screen Sleep:</string>
+    <string name="screen_timeout_seconds">Seconds</string> 
         
     <!-- Names for Manifest -->
+    <string name="change_goback">Go Back</string>
     <string name="change_up">Plus</string>
     <string name="change_down">Minus</string>
     <string name="change_max">Max</string>
@@ -42,10 +49,12 @@
     <string name="change_all">All Switches</string>
     <string name="change_sync">AutoSync Switch</string> 
     <string name="change_overdrive">OverDrive</string> 
-         
+          
     <!-- Voice Triggers -->
     <string name="voice_audio_trigger">Glass Volume</string>
     <string name="voice_brightness_trigger">Glass Brightness</string>    
     <string name="voice_radio_trigger">Glass Radios</string>
     <string name="voice_status_trigger">Glass Status</string>
+    <string name="voice_timeout_trigger">Glass Sleep</string>  
+      
 </resources>
