@@ -98,8 +98,8 @@ Shows the following information:
 Launch Phrase: <b>Glass Uninstall</b>
 
 Remove any installed application.  
-	* Swipe left or right to scroll through the list of apps. 
-	* Tap one finger to uninstall.
+* Swipe left or right to scroll through the list of apps. 
+* Tap one finger to uninstall.
 
 
 IMPORTANT REMINDER
