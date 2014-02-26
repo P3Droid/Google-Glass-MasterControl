@@ -10,7 +10,7 @@ DIRECTIONS
 
 #### Volume Control
 
-Launch Phrase: <b>Glass Volume</b>
+Launch Phrase: <b>Glass Audio</b>
 
 Voice Commands:
 * Plus: +10% to volume.
@@ -18,7 +18,8 @@ Voice Commands:
 * Max: set volume to 100%.
 * Mute: set volume to mute.
 * Overdrive: set volume to 165%.
-* Manual: control setting volume with swipe gestures.
+
+* In each menu you have 6 seconds to use swipe gestures to control the audio levels.
 	* Swipe One Finger Right: +10% to volume.
 	* Swipe One Finger Left: -10% to volume.
 	* Swipe Two Fingers Right: volume max.
@@ -36,7 +37,8 @@ Voice Commands:
 * Max: set brightness to 100%.
 * Mute: set brightness to 10%.
 * Auto: turn auto brightness on.
-* Manual: control setting volume with swipe gestures.
+
+* In each menu you have 6 seconds to use swipe gestures to control the brightness levels.
 	* Swipe One Finger Right: +10% to brightness.
 	* Swipe One Finger Left: -10% to brightness.
 	* Swipe Two Fingers Right: brightness 100%.
@@ -60,7 +62,8 @@ Launch Phrase: <b>Glass Sleep</b>
 Voice Commands:
 * Plus: add 5 seconds.
 * Minus: subtract 5 seconds.
-* Manual: control setting volume with swipe gestures.
+
+* In each menu you have 6 seconds to use swipe gestures to control the sleep timer.
 	* Swipe One Finger Right: add 5 seconds.
 	* Swipe One Finger Left: subtract 5 seconds.
 	* Tap One Finger: set to standard time of 15 seconds.
@@ -88,7 +91,18 @@ Shows the following information:
 	* Wifi address (Only if connected to wifi)
 
 
+#### Glass Status Screens
+
+(This project can be found on github here: https://github.com/martynhaigh/GlassUninstaller?files=1)
+
+Launch Phrase: <b>Glass Uninstall</b>
+
+Remove any installed application.  
+	* Swipe left or right to scroll through the list of apps. 
+	* Tap one finger to uninstall.
+
+
 IMPORTANT REMINDER
 =============
 
-Most screens have an auto timeout function.  After you issue your voice command the device will go back to the "Ok Glass" screen withing 2 - 5 seconds.
+Most screens have an auto timeout function.  After you issue your voice command the device will go back to the "Ok Glass" screen withing 6 seconds.
