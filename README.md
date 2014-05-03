@@ -1,4 +1,4 @@
-GLASS MASTER CONTROL  V. 2.2.5
+GLASS MASTER CONTROL  V. 2.2.9
 =============
 
 DESCRIPTION
@@ -17,14 +17,12 @@ Voice Commands:
 * Minus: -10% to volume.
 * Max: set volume to 100%.
 * Mute: set volume to mute.
-* Overdrive: set volume to 165%.
 
 * In each menu you have 6 seconds to use swipe gestures to control the audio levels.
 	* Swipe One Finger Right: +10% to volume.
 	* Swipe One Finger Left: -10% to volume.
 	* Swipe Two Fingers Right: volume max.
 	* Swipe Two Fingers Left: volume mute.
-	* Tap Two Fingers: volume set to 165%.
 
 
 #### Screen Brightness Control
